@@ -1,8 +1,3 @@
-public struct ProjName_Sample {
-
-    public var text = "Hello, World!"
-}
-
 public func f() {
     
     print("Hello, World!!")
